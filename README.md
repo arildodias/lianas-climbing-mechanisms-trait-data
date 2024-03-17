@@ -1,6 +1,6 @@
 # Lianas climbing mechanisms
 
-This repository contains the R script used to main analyses and produce the figures for the manuscritp "Climbing mechanisms as a central trait to understand the ecology of lianas across the tropics" in Global Ecology and Biogegraphy. 
+This repository contains the R scripts used to main analyses and produce the figures for the manuscritp "Climbing mechanisms as a central trait to understand the ecology of lianas across the tropics" in Global Ecology and Biogegraphy. 
 The Manuscript is under 'minor revisons'
 
 # Data
